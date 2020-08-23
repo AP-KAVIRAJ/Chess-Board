@@ -1,0 +1,652 @@
+body {
+  background-color: #252a34;
+  text-align: center;
+  margin-left: 240px;
+  margin-right:240px; ;
+  ;
+}
+
+
+
+#title {
+  padding-bottom: 100px;
+  color: #08d9d6;
+  font-family: sans-serif;
+}
+
+.alphabets{
+  height:100px;
+  width: 100px;
+  font-size: 2rem;
+  color:#08d9d6;
+}
+
+/* alphabets */
+
+.a{
+  position: absolute;
+  top:80px;
+  right: 1200px;
+}
+
+.b{
+  position: absolute;
+  top:80px;
+  right: 1100px;
+}
+
+.c{
+  position: absolute;
+  top:80px;
+  right: 1000px;
+}
+
+.d{
+  position: absolute;
+  top:80px;
+  right: 900px;
+
+}
+
+.e{
+  position: absolute;
+  top:80px;
+  right: 800px;
+}
+
+.f{
+  position: absolute;
+  top:80px;
+  right: 700px;
+}
+
+.g{
+  position: absolute;
+  top:80px;
+  right: 600px;
+}
+
+.h{
+  position: absolute;
+  top:80px;
+  right: 500px;
+}
+
+.light {
+  height: 100px;
+  width: 100px;
+  background-color: #eaeaea;
+}
+
+.dark {
+  height: 100px;
+  width: 100px;
+  background-color: #ff2e63;
+}
+
+/* FIRST ROW */
+.eight {
+  position: absolute;
+  right: 500px;
+  border-top:5px solid black ;
+  border-right:5px solid black ;
+}
+
+.seven {
+  position: absolute;
+  border-top:5px solid black;
+  right: 600px;
+}
+
+.six {
+  position: absolute;
+  border-top:5px solid black;
+  right: 700px;
+}
+
+.five {
+  position: absolute;
+  border-top:5px solid black;
+  right: 800px;
+}
+
+.four {
+  position: absolute;
+  border-top:5px solid black;
+  right: 900px;
+}
+
+.three {
+  position: absolute;
+  border-top:5px solid black;
+  right: 1000px;
+}
+
+.two {
+  position: absolute;
+  border-top:5px solid black;
+  right: 1100px;
+}
+
+.one {
+  position: absolute;
+  border-top:5px solid black;
+  border-left:5px solid black;
+  right: 1200px;
+}
+
+.number8{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+}
+
+/* SECOND ROW */
+.eightt {
+  position: absolute;
+  top: 280px;
+  right: 500px;
+  border-right:5px solid black;
+}
+
+.number7{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:280px;
+}
+
+.sevenn {
+  position: absolute;
+  top: 280px;
+  right: 600px;
+}
+
+.sixx {
+  position: absolute;
+  top: 280px;
+  right: 700px;
+}
+
+.fivee {
+  position: absolute;
+  top: 280px;
+  right: 800px;
+}
+
+.fourr {
+  position: absolute;
+  top: 280px;
+  right: 900px;
+}
+
+.threee {
+  position: absolute;
+  top: 280px;
+  right: 1000px;
+}
+
+.twoo {
+  position: absolute;
+  top: 280px;
+  right: 1100px;
+}
+
+.onee {
+  position: absolute;
+  top: 280px;
+  right: 1200px;
+  border-left:5px solid black;
+}
+
+/* THIRD ROW */
+.eight8 {
+  position: absolute;
+  top: 380px;
+  right: 500px;
+  border-right:5px solid black;
+}
+
+.seven7 {
+  position: absolute;
+  top: 380px;
+  right: 600px;
+}
+
+.six6 {
+  position: absolute;
+  top: 380px;
+  right: 700px;
+}
+
+.number6{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:380px;
+}
+
+.five5 {
+  position: absolute;
+  top: 380px;
+  right: 800px;
+}
+
+.four4 {
+  position: absolute;
+  top: 380px;
+  right: 900px;
+}
+
+.three3 {
+  position: absolute;
+  top: 380px;
+  right: 1000px;
+}
+
+.two2 {
+  position: absolute;
+  top: 380px;
+  right: 1100px;
+}
+
+.one1 {
+  position: absolute;
+  top: 380px;
+  right: 1200px;
+  border-left:5px solid black;
+}
+
+/* FORTH ROW */
+.Eightt {
+  position: absolute;
+  top: 480px;
+  right: 500px;
+  border-right:5px solid black;
+}
+
+.Sevenn {
+  position: absolute;
+  top: 480px;
+  right: 600px;
+}
+
+.Sixx {
+  position: absolute;
+  top: 480px;
+  right: 700px;
+}
+
+.Fivee {
+  position: absolute;
+  top: 480px;
+  right: 800px;
+}
+.number5{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:480px;
+}
+
+.Fourr {
+  position: absolute;
+  top: 480px;
+  right: 900px;
+}
+
+.Threee {
+  position: absolute;
+  top: 480px;
+  right: 1000px;
+}
+
+.Twoo {
+  position: absolute;
+  top: 480px;
+  right: 1100px;
+}
+
+.Onee {
+  position: absolute;
+  top: 480px;
+  right: 1200px;
+  border-left:5px solid black;
+}
+
+/* FIFTH ROW */
+.Eight {
+  position: absolute;
+  top: 580px;
+  right: 500px;
+  border-right:5px solid black;
+}
+
+.Seven {
+  position: absolute;
+  top: 580px;
+  right: 600px;
+}
+
+.Six {
+  position: absolute;
+  top: 580px;
+  right: 700px;
+}
+
+.Five {
+  position: absolute;
+  top: 580px;
+  right: 800px;
+}
+
+.Four {
+  position: absolute;
+  top: 580px;
+  right: 900px;
+}
+
+.number4{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:580px;
+}
+
+.Three {
+  position: absolute;
+  top: 580px;
+  right: 1000px;
+}
+
+.Two {
+  position: absolute;
+  top: 580px;
+  right: 1100px;
+}
+
+.One {
+  position: absolute;
+  top: 580px;
+  right: 1200px;
+  border-left:5px solid black;
+}
+
+/* SIXTH ROW */
+.EIghtt {
+  position: absolute;
+  top: 680px;
+  right: 500px;
+  border-right:5px solid black;
+}
+
+.SEvenn {
+  position: absolute;
+  top: 680px;
+  right: 600px;
+}
+
+.SIxx {
+  position: absolute;
+  top: 680px;
+  right: 700px;
+}
+
+.FIvee {
+  position: absolute;
+  top: 680px;
+  right: 800px;
+}
+
+.FOurr {
+  position: absolute;
+  top: 680px;
+  right: 900px;
+}
+
+.THreee {
+  position: absolute;
+  top: 680px;
+  right: 1000px;
+}
+
+.number3{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:680px;
+}
+
+.TWoo {
+  position: absolute;
+  top: 680px;
+  right: 1100px;
+}
+
+.ONee {
+  position: absolute;
+  top: 680px;
+  right: 1200px;
+  border-left:5px solid black;
+}
+
+/* SEVENTH ROW */
+.EIGhtt {
+  position: absolute;
+  top: 780px;
+  right: 500px;
+  border-right: solid black;
+}
+
+.SEVenn {
+  position: absolute;
+  top: 780px;
+  right: 600px;
+}
+
+.SIXx {
+  position: absolute;
+  top: 780px;
+  right: 700px;
+}
+
+.FIVee {
+  position: absolute;
+  top: 780px;
+  right: 800px;
+}
+
+.FOUrr {
+  position: absolute;
+  top: 780px;
+  right: 900px;
+}
+
+.THReee {
+  position: absolute;
+  top: 780px;
+  right: 1000px;
+}
+
+.TWOo {
+  position: absolute;
+  top: 780px;
+  right: 1100px;
+}
+.number2{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:780px;
+}
+
+.ONEe {
+  position: absolute;
+  top: 780px;
+  right: 1200px;
+  border-left:5px solid black;
+}
+
+/* EIGHTH ROW */
+.EIGHtt {
+  position: absolute;
+  top: 880px;
+  right: 500px;
+  border-bottom:5px solid black;
+  border-right:5px solid black;
+}
+
+.SEVEnn {
+  position: absolute;
+  top: 880px;
+  right: 600px;
+  border-bottom:5px solid black;
+}
+
+.SIXX {
+  position: absolute;
+  top: 880px;
+  right: 700px;
+  border-bottom:5px solid black;
+}
+
+.FIVEe {
+  position: absolute;
+  top: 880px;
+  right: 800px;
+  border-bottom:5px solid black;
+}
+
+.FOURr {
+  position: absolute;
+  top: 880px;
+  right: 900px;
+  border-bottom:5px solid black;
+}
+
+.THREee {
+  position: absolute;
+  top: 880px;
+  right: 1000px;
+  border-bottom:5px solid black;
+}
+
+.TWOO {
+  position: absolute;
+  top: 880px;
+  right: 1100px;
+  border-bottom:5px solid black;
+}
+
+.ONEE {
+  position: absolute;
+  top: 880px;
+  right: 1200px;
+  border-left:5px solid black;
+  border-bottom:5px solid black;
+}
+
+.number1{
+  font-size: 2rem;
+  color: #08d9d6;
+  height:100px;
+  width:100px;
+  position: absolute;
+  right: 1300px;
+  top:880px;
+}
+
+/* CHESS ICONS */
+
+.blackKing1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.blackQueen1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.blackBishop1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.blackKnight1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.blackRook1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.blackPawn1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.whitePawn1{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.whiteRook{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.whiteKnight{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.whiteBishop{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.whiteQueen{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
+
+.whiteKing{
+  padding-top: 5px;
+  height:90px;
+  width: 80px;
+}
