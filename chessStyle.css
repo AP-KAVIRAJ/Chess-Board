@@ -453,7 +453,7 @@ body {
   position: absolute;
   top: 780px;
   right: 500px;
-  border-right: solid black;
+  border-right:5px solid black;
 }
 
 .SEVenn {
